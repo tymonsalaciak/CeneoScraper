@@ -22,3 +22,9 @@ pp2
 ## wykorzystane biblioteki
 -BeautifulSoup4
 -Requests
+-Json
+-os
+-Pandas 
+-Numpy
+-matplotlib
+
